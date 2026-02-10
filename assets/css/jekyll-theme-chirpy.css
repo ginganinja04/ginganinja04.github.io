@@ -1,5 +1,9 @@
 ---
 ---
+
+/* Load Chirpy’s core styles first (required) */
+@import "main";
+
 /* Fix gap under avatar image in sidebar */
 .profile-wrapper {
   line-height: 0;
