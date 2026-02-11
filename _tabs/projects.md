@@ -1,14 +1,7 @@
 ---
-layout: page
 title: Projects
 icon: fas fa-code
 order: 2
-permalink: /projects/
+url: /categories/projects/
 ---
-
-{% assign project_posts = site.categories.Projects | sort: "date" | reverse %}
-
-{% for post in project_posts %}
-  {% include post-summary.html  %}
-{% endfor %}
 
