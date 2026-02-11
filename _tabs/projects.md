@@ -3,7 +3,7 @@ layout: page
 title: Projects
 icon: fas fa-code
 order: 2
-permalink:/projects/
+permalink: /projects/
 ---
 
 {% assign project_posts = site.categories.Projects | sort: "date" | reverse %}
