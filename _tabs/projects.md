@@ -9,6 +9,6 @@ permalink: /projects/
 {% assign project_posts = site.categories.Projects | sort: "date" | reverse %}
 
 {% for post in project_posts %}
-  {% include post-preview.html post=post %}
+  {% include post-summary.html  %}
 {% endfor %}
 
