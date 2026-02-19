@@ -1,7 +1,7 @@
 ---
 title: Network Delay Visualizer
 date: 2026-02-17 09:00:00 -0500
-categories: [Projects]
+categories: [projects]
 tags: [Computer Networks, Visualization, Web, JavaScript]
 ---
 
